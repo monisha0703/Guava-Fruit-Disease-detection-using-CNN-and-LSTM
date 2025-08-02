@@ -20,7 +20,7 @@ Disease Types Founded:
 
 ->Scab
 
--> Styler End Rot
+->Styler End Rot
 
 Libraries Used:
 
