@@ -7,19 +7,30 @@ Diseases Types Founded:
 -> Canker
 
 -> Disease Free
+
 -> Dot
+
 ->Mummification
+
 ->Phytophthora
+
 ->RedRust
+
 ->Rust
+
 ->Scab
+
 ->Styler & Root
 
 Libraries
 
-->TensorFlow and Keras for deep learning model operations, 
-->NumPy for numerical computations, 
-->OpenCV (cv2) for image capture and processing, 
-->Pillow (PIL) for image manipulation,
+->TensorFlow and Keras for deep learning model operations
+
+->NumPy for numerical computations
+
+->OpenCV (cv2) for image capture and processing
+
+->Pillow (PIL) for image manipulation
+
 ->Tkinter and ImageTk for building the graphical user interface, along with os, time, threading, and future for system operations, timing, concurrency, and compatibility across Python versions.
 
