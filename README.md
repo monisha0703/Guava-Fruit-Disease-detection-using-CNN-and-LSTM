@@ -5,6 +5,7 @@ This project focuses on detecting guava fruit diseases using a hybrid deep learn
 Diseases Types Founded:
 
 -> Canker
+
 -> Disease Free
 -> Dot
 ->Mummification
