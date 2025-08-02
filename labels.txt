@@ -6,4 +6,4 @@
 5 RedRust
 6 Rust
 7 Scab
-8 Styler & Root
+8 Styler End Rot
