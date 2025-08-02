@@ -1,0 +1,9 @@
+0 Canker
+1 Disease Free
+2 Dot
+3 Mummification
+4 Phytopthora
+5 RedRust
+6 Rust
+7 Scab
+8 Styler & Root
